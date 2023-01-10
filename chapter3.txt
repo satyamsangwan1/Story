@@ -1,1 +1,2 @@
 This is the third chapter of the story.
+Added a new line in chapter 3.
